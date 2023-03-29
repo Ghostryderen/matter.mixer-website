@@ -246,6 +246,7 @@ body{
 .slide-wrapper {
     width: calc(1000px * 6);
     animation: slide 20s ease infinite;
+    overflow-x: hidden
 }
  
 .slide:nth-child(1) {
